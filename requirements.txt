@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+numpy
+pandas
+networkx
+matplotlib
+python-dotenv
+tqdm
+sentence-transformers
+scikit-learn
+umap-learn
+transformers
+neo4j
+streamlit
+schedule
+pyyaml
